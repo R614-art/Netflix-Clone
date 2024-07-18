@@ -1,4 +1,4 @@
-export const API_END_POINT = "http://localhost:15000/api/v1/user";
+export const API_END_POINT = "https://netflix-clone-iwy8.onrender.com/api/v1/user";
 
 export const options = {
     method: 'GET',
